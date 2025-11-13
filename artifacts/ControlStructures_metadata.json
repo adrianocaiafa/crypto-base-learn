@@ -9,7 +9,7 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "time",
+						"name": "_time",
 						"type": "uint256"
 					}
 				],
@@ -68,7 +68,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ControlStructures.sol": "ControlStructures"
+			"contracts/2_ControlStructures.sol": "ControlStructures"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -82,12 +82,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ControlStructures.sol": {
-			"keccak256": "0x927042508f7ff7932bf316254117c5c00b085501a29eaf730a050213dc5c4852",
-			"license": "MIT",
+		"contracts/2_ControlStructures.sol": {
+			"keccak256": "0x1f4ade1f6f4909dedc355e7973b2943383de03fc2807870fafa98ea85381dbcf",
+			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://542942ed23947b029e5b25cebe7ea5c6a35bfeabaaaf32335feb8703d1b9daad",
-				"dweb:/ipfs/QmRpfAsC9ddQtyMFMSYcb9oWwBhufSG32hLMdUfWoPxwDR"
+				"bzz-raw://36e7138b07637194b9f0ee8d2202a38536cbac3bb0f781be85fe23341cd67e18",
+				"dweb:/ipfs/QmaSKgLHEsaZSgZgyQxYHRfmi4Sak68Uxyz9EBVh2PokB6"
 			]
 		}
 	},

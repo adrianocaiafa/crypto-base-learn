@@ -77,7 +77,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/BasicMath.sol": "BasicMath"
+			"contracts/1_BasicMath.sol": "BasicMath"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -91,7 +91,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/BasicMath.sol": {
+		"contracts/1_BasicMath.sol": {
 			"keccak256": "0x213ec437e1f847913f5396c525ec0094da9b6c67812e77591b962130b4939b8c",
 			"license": "MIT",
 			"urls": [
