@@ -68,7 +68,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/2_ControlStructures.sol": "ControlStructures"
+			"contracts/02_ControlStructures.sol": "ControlStructures"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -82,7 +82,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/2_ControlStructures.sol": {
+		"contracts/02_ControlStructures.sol": {
 			"keccak256": "0x1f4ade1f6f4909dedc355e7973b2943383de03fc2807870fafa98ea85381dbcf",
 			"license": "UNLICENSED",
 			"urls": [
