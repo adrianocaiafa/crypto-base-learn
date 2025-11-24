@@ -76,25 +76,6 @@
 				"type": "function"
 			},
 			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"name": "lastMessage",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
 				"inputs": [],
 				"name": "myInteractions",
 				"outputs": [
@@ -147,7 +128,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SimpleMessages.sol": "SimpleInteractions"
+			"contracts/InteractContract.sol": "SimpleInteractions"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -155,18 +136,18 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SimpleMessages.sol": {
-			"keccak256": "0xf0b950e23aff2e86ddad4d2cbbfe47ffab068f42b2e23d39085b8afe044ec66d",
+		"contracts/InteractContract.sol": {
+			"keccak256": "0x0931f6412a1a7dd9d75aeb94843dba57543631fba611bb0286c788331e145e72",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b221fb76667e4ee01abf6de20ee355d24bec5f5c337b12dba3836281837a1837",
-				"dweb:/ipfs/QmbFKwQfZD9C3yexEvjsQNh1mJAHWEQbQwjPenR3bvPKDp"
+				"bzz-raw://bc186516d740adc4858f7a6aed4a7ba1ad96681a38dc1e8a00b339b8e8d930e1",
+				"dweb:/ipfs/QmQvB6YcDbty4djDhD3xq54Ya91metGfWR7ZyWmy43W5Gt"
 			]
 		}
 	},
